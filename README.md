@@ -1,13 +1,22 @@
-# Insira aqui o nome do exercício
+# GrausFC
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Números e operadores (7) - GrausFC
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md
   
-## Enunciado
-  
-Insira aqui a descrição do exercício
+## Exercício `GrausFC`
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Converta uma temperatura digitada pelo usuário em °F para °C.
+
+°C = (°F − 32) / 1,8
+
+Ref.: [https://pt.wikipedia.org/wiki/Celsius](https://pt.wikipedia.org/wiki/Celsius)
+
+```
+°F = 0
+0°F equivalem a -17,78°F
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
